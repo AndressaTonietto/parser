@@ -1,0 +1,19 @@
+{
+  "name": "@manos-learning/parser",
+  "version": "0.0.0",
+  "description": "parses some types",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndressaTonietto/parser.git"
+  },
+  "author": "AndressaTonietto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndressaTonietto/parser/issues"
+  },
+  "homepage": "https://github.com/AndressaTonietto/parser#readme"
+}
