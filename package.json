@@ -1,9 +1,10 @@
 {
-  "name": "@manos-learning/parser",
+  "name": "learning-node/parser",
   "version": "0.0.0",
   "description": "parses some types",
   "main": "lib/index.js",
   "scripts": {
+    "lint": "eslint .",
     "test": "npm test"
   },
   "repository": {
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AndressaTonietto/parser/issues"
   },
-  "homepage": "https://github.com/AndressaTonietto/parser#readme"
+  "homepage": "https://github.com/AndressaTonietto/parser#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
 }
